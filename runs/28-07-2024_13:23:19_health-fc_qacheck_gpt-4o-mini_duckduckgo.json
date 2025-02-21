@@ -1,0 +1,316 @@
+{
+   "data": [
+      {
+         "en_claim": "Can masks reduce corona infections when worn by a large proportion of the population?",
+         "label": 1,
+         "date": "5. Dezember 2022",
+         "claim": "Can masks reduce corona infections when worn by a large proportion of the population?",
+         "prediction": 1,
+         "rationale": "Masks can help reduce the transmission of coronavirus (COVID-19) by blocking respiratory droplets that may contain the virus, which are released when an infected person talks, coughs, or sneezes. Wearing masks, especially in crowded or indoor settings, can significantly lower the risk of spreading the virus. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Do masks reduce corona infections?",
+               "answer": "Yes, masks can help reduce the transmission of coronavirus (COVID-19). They work by blocking respiratory droplets that may contain the virus, which are released when an infected person talks, coughs, or sneezes. Wearing masks, especially in crowded or indoor settings, can significantly lower the risk of spreading the virus and",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 0,
+         "id": 610346806595975170
+      },
+      {
+         "en_claim": "Can homeopathic preparations with Anamirta cocculus help against dizziness?",
+         "label": 2,
+         "date": "17. November 2022",
+         "claim": "Can homeopathic preparations with Anamirta cocculus help against dizziness?",
+         "prediction": 1,
+         "rationale": "Anamirta cocculus is used for various medicinal purposes, including the treatment of eruptive fevers and acute barbiturate poisoning. The dried fruits, known as 'cocculus' or 'cocculus indicus', are utilized in very small doses for these conditions, and the powdered fruit can also be applied Anamirta cocculus, commonly known as Cocculus Indicus, can help against dizziness, particularly for symptoms associated with motion sickness, including dizziness, nausea, and vertigo. This homeopathic remedy is often used to alleviate discomfort during travel, such as car sickness, plane sickness, and seasickness. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "What is Anamirta cocculus used for?",
+               "answer": "Anamirta cocculus is used for various medicinal purposes, including the treatment of eruptive fevers and acute barbiturate poisoning. The dried fruits, known as 'cocculus' or 'cocculus indicus', are used in very small doses for these conditions. Additionally, the powdered fruit can be applied",
+               "rationale": "1. Anamirta cocculus (Marathi: काकमारी) is a Southeast Asian and Indian climbing plant.Its fruit is the source of picrotoxin, a poisonous compound with stimulant properties.. The plant is large-stemmed (up to 10 cm in diameter); the bark is \"corky gray\" with white wood. The \"small, yellowish-white, sweet-scented\" flowers vary between 6 and 10 millimeters across; the fruit produced ...\n2. The medicinal plant Anamirta cocculus is a member of the Menispermaceae (moonseed) family. This page includes its habitat, botanical descption, medicinal uses (eg., Ayurveda), chemical constituents and history of use in modern and ancient India. Index in Flora of British India (Hooker): 1.\n3. Levant berry is the fruit from a vine (Anamirta cocculus) that grows in Southeast Asia. The dried fruit and seeds are used to make medicine in some parts of the world. But medicinal use has been ...\n4. 6. Human Introduction: The plant's use in traditional medicine and fishing practices has led to its intentional introduction and cultivation in regions where it was not originally native. The Chemical Composition of Anamirta cocculus. 1. Alkaloids: Anamirta cocculus contains various alkaloids, including picrotoxin, which is known for its toxic and therapeutic properties.\n5. The dried fruits constitute the drug known as 'cocculus' or 'cocculus indicus'. The fruit is used in very small doses to treat eruptive fevers, whilst the powdered fruit is used to treat acute barbiturate poisoning [. 310. ]. Applied externally, the fruits and seeds are made into an ointment to treat skin diseases.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Can Anamirta cocculus help against dizziness?",
+               "answer": "Yes, Anamirta cocculus, commonly known as Cocculus Indicus, can help against dizziness. It is particularly indicated for symptoms associated with motion sickness, including dizziness, nausea, and vertigo. This homeopathic remedy is often used to alleviate discomfort during travel, such as car sickness, plane sickness, and seas",
+               "rationale": "1. Homeopathic Cocculus Indicus is a natural remedy that provides relief for travel sickness, nausea, and dizziness associated with motion, jet lag, and night shifts.This article explores the origins, traditional uses, and modern applications of this unique homeopathic remedy.Cocculus Indicus, also known as Anamirta Cocculus, is a climbing shrub native to tropical regions of Southeast Asia.\n2. Cocculus offers great help when a person has nausea, vomiting, vertigo while travelling. Next its use is considered to help cases of stomach pain. It can be cramping, griping or lacerating type. Cramps are attended with excessive gas. This medicine can be given to manage nausea and vomiting.\n3. The homeopathic remedy Cocculus is obtained from the dry fruit of the Anamirta cocculus (also called cocca of the Levant), a shrub of the Memispermacee family. This remedy is especially indicated for dizziness, dizziness, nausea and car sickness, plane sickness and seasickness. Cocculus Indicus or cocca del levante Cocculus Indicus, or Levant cocca, is the fruit of Anamirta cocculus, a ...\n4. 4. Gelsemium. When it comes to homeopathy for vertigo and Meniere's disease, gelsemium is often a remedy that comes to mind. It is one of the better homeopathic remedies for vertigo symptoms including dizziness, dim vision, heavy eyelids, and vertigo that begins in the back of the head before spreading.\n5. 5. Antiemetic Qualities: Anamirta cocculus can help reduce nausea and vomiting, making it beneficial for individuals experiencing motion sickness or morning sickness during pregnancy. 6. Skin Health: Topical applications of Anamirta cocculus extracts can aid in treating skin conditions such as eczema and psoriasis.",
+               "predicate": null
+            }
+         ],
+         "row": 1,
+         "id": 258023655039367718
+      },
+      {
+         "en_claim": "Can zeolite alleviate or prevent health problems?",
+         "label": 2,
+         "date": "27. September 2022",
+         "claim": "Can zeolite alleviate or prevent health problems?",
+         "prediction": 1,
+         "rationale": "Zeolite can potentially alleviate several health problems, including reducing blood alcohol levels and blocking alcohol absorption, which may assist in managing alcohol-related issues. Additionally, zeolite can help alkalize the body, contributing to pH balance. Zeolite is used for various applications, including detoxification to help boost gut health and in medical applications, particularly Clinoptilolite, which is utilized in healthcare for detoxification therapies due to its biocompatibility. The purported benefits of using zeolite include aiding in wound healing, although evidence is limited and of low quality, and helping to alkalize the body by balancing its pH. Zeolites are sourced from both natural deposits and synthetic methods, with natural sources including volcanic rocks and sediments where they form through the alteration of volcanic ash and other materials over geological time. Approximately 40 natural zeolites have been identified, with common types among them. The types of zeolite include Clinoptilolite, which is one of the most widespread and well-known natural zeolites used in various industrial applications; Heulandite, a popular zeolite often used in aquariums and as a decorative mineral; and Stil. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "What health problems can zeolite alleviate?",
+               "answer": "Zeolite can potentially alleviate several health problems, including:\n\n1. **Alcohol Absorption**: Zeolite, particularly clinoptilolite, has been shown to reduce blood alcohol levels and block alcohol absorption, which may help in managing alcohol-related issues.\n\n2. **pH Balance**: Zeolite can help alkalize",
+               "rationale": "1. In 12 healthy drinkers, clinoptilolite (5 g) reduced blood levels of alcohol by up to 43%. It blocked alcohol absorption when combined with a drink [ 32 ]. In another clinical trial, 25 volunteers took zeolite (2.25 g - 4.5 g) the morning after the \"night out.\".\n2. 2. Alkalizes the Body. Another well-known benefit of zeolite is its ability to help the body balance pH by providing alkalizing minerals AND supporting kidney function. Many foods ( think white bread, rice, or any processed foods) are acid-forming in the body, while most green veggies are alkalizing to the body.\n3. Zeolite is a mineral that is anti-inflammatory, an antioxidant, and helpful for clearing pores 1. First formed more than 300 million years ago, zeolite is a mineral mostly made up of silica (the third most abundant trace element in the human body) and alumina tetrahedra. There are many variations, each one unique to its environment.\n4. Though rare, some users of Clinoptilolite-based products have reported mild allergic reactions including skin rashes and itching. In addition, some consumers have reported transient side effects such as mild gastrointestinal discomfort, including bloating, gas, or changes in bowel movements.\n5. Zeolite's benefits themselves are due to their crystalline structure; zeolites are porous and negatively-charged, allowing for the selective removal of toxins, especially heavy metals, which are positively-charged. Simply speaking, a zeolite detox involves this mineral acting as a detoxification filter by targeting heavy metals, trapping them ...",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "What is zeolite used for?",
+               "answer": "Zeolite is used for various applications, including:\n\n1. **Detoxification**: It may help detoxify the body and boost gut health.\n2. **Medical Applications**: Clinoptilolite, a subtype of zeolite, is utilized in healthcare for detoxification therapies due to its biocompatibility and",
+               "rationale": "1. It may help you detox, boost your gut health, stop bleedings, and combat free radicals. The evidence is insufficient when it comes to liver protection, anticancer effects, and Alzheimer's disease. Zeolite is safe for human consumption but can damage the lungs if inhaled for a longer time.\n2. Zeolite exhibited in the Estonian Museum of Natural History. Zeolite is a family of several microporous, crystalline aluminosilicate materials commonly used as commercial adsorbents and catalysts. They mainly consist of silicon, aluminium, oxygen, and have the general formula M n+ 1/n (AlO 2) − (SiO 2) x ･y H 2 O where M n+ 1/n is either a metal ion or H +.These positive ions can be ...\n3. Zeolite is a mineral that is anti-inflammatory, an antioxidant, and helpful for clearing pores 1. First formed more than 300 million years ago, zeolite is a mineral mostly made up of silica (the third most abundant trace element in the human body) and alumina tetrahedra. There are many variations, each one unique to its environment.\n4. Clinoptilolite, a subtype of naturally-occurring zeolites, has demonstrated significant potential in the healthcare industry. Its unique physicochemical properties and high biocompatibility make it an ideal candidate for various health-related applications. Primarily, Clinoptilolite has been extensively used in detoxification therapies. Owing ...\n5. The widely tested zeolite suitable for medical applications in vivo is the clinoptilolite tuff but the mordenite tuff was also studied by Selvam et al. (2014) So far the word 'zeolite' has been used in the literature for different types of zeolites, tuffs, and clays. For example, both clinoptilolite and clay materials may be used for ion ...",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": "What are the benefits of using zeolite?",
+               "answer": "The purported benefits of using zeolite include:\n\n1. **Wound Healing**: Some limited studies suggest that zeolite may aid in wound healing, although evidence is insufficient and of low quality.\n\n2. **Alkalizing the Body**: Zeolite is believed to help balance the body's pH by providing alkalizing",
+               "rationale": "1. The following purported benefits are only supported by limited, low-quality clinical studies. There is insufficient evidence to support the use of zeolite for any of the below-listed uses. Remember to speak with a doctor before using zeolite, and never use it in place of something your doctor recommends or prescribes. 7) Wound Healing\n2. 2. Alkalizes the Body. Another well-known benefit of zeolite is its ability to help the body balance pH by providing alkalizing minerals AND supporting kidney function. Many foods ( think white bread, rice, or any processed foods) are acid-forming in the body, while most green veggies are alkalizing to the body.\n3. Zeolite is a mineral that is anti-inflammatory, an antioxidant, and helpful for clearing pores 1. First formed more than 300 million years ago, zeolite is a mineral mostly made up of silica (the third most abundant trace element in the human body) and alumina tetrahedra. There are many variations, each one unique to its environment.\n4. The Benefits of Zeolite Detox. There are many types of zeolites found in nature, but zeolite clinoptilolite is the most suited for therapeutic applications. Through scientific research, zeolite has been assessed for the removal of environmental toxins, shown to promote health and well-being in numerous animal studies, and demonstrated benefits ...\n5. The mineral's absorptive properties are believed to help remove impurities and toxins from the skin, thus potentially improving skin health and appearance. The aforementioned applications have given rise to a broad range of Clinoptilolite-containing health products in the market.",
+               "predicate": null
+            },
+            {
+               "round": 3,
+               "target_entity": "",
+               "generated_question": "What are the sources of zeolite?",
+               "answer": "The sources of zeolite primarily include natural deposits and synthetic methods. \n\n1. **Natural Sources**: Zeolites can be found in volcanic rocks and sediments, where they form through the alteration of volcanic ash and other materials over geological time. About 40 natural zeolites have been identified, with common types including",
+               "rationale": "1. Zeolite exhibited in the Estonian Museum of Natural History. Zeolite is a family of several microporous, crystalline aluminosilicate materials commonly used as commercial adsorbents and catalysts. They mainly consist of silicon, aluminium, oxygen, and have the general formula M n+ 1/n (AlO 2) − (SiO 2) x ･y H 2 O where M n+ 1/n is either a metal ion or H +.These positive ions can be ...\n2. Methods of Synthesizing Zeolite Minerals: Hydrothermal Synthesis: Hydrothermal methods involve the crystallization of zeolites from a mixture of alumina and silica sources in an autoclave at elevated temperatures and pressures. Various parameters, such as temperature, pressure, and reaction time, can be controlled to tailor the properties of ...\n3. The zeolites are noted for their lability toward ion-exchange and reversible dehydration. They have a framework structure that encloses interconnected cavities occupied by large metal cations (positively charged ions) and water molecules. The essential structural feature of a zeolite is a three-dimensional tetrahedral framework in which each ...\n4. Animation (above): Ion exchange in zeolites: the zeolite \"cage\" (gray) traps incoming ions (red and orange) and releases others (yellow) in their place. The most interesting thing about zeolites is their open, cage-like, \"framework\" structure and the way it can trap other molecules inside it. This is how water molecules and alkali or alkaline ...\n5. Zeolites Statistics and Information. Zeolites are hydrated aluminosilicates of the alkaline and alkaline-earth metals. About 40 natural zeolites have been identified during the past 200 years; the most common are analcime, chabazite, clinoptilolite, erionite, ferrierite, heulandite, laumontite, mordenite, and phillipsite.",
+               "predicate": null
+            },
+            {
+               "round": 4,
+               "target_entity": "",
+               "generated_question": "What are the types of zeolite?",
+               "answer": "The types of zeolite include:\n\n1. **Clinoptilolite**: One of the most widespread and well-known natural zeolites, used in various industrial applications.\n2. **Heulandite**: A popular zeolite often used in aquariums and as a decorative mineral.\n3. **Stil",
+               "rationale": "1. Zeolite exhibited in the Estonian Museum of Natural History. Zeolite is a family of several microporous, crystalline aluminosilicate materials commonly used as commercial adsorbents and catalysts. They mainly consist of silicon, aluminium, oxygen, and have the general formula M n+ 1/n (AlO 2) − (SiO 2) x ･y H 2 O where M n+ 1/n is either a metal ion or H +.These positive ions can be ...\n2. Types of Zeolites Found in Nature: Various types of zeolite minerals can be found in nature, each with its distinct crystal structure and properties. Some of the common zeolites encountered in natural deposits include: Clinoptilolite: Clinoptilolite is one of the most widespread and well-known natural zeolites. It is characterized by its high ...\n3. Zeolite, any member of a family of hydrated aluminosilicate minerals that contain alkali and alkaline-earth metals. The zeolites are noted for their lability toward ion-exchange and reversible dehydration. ... Structurally, zeolites are classified by the types of structural units that compose the framework, such as rings or polyhedra types. The ...\n4. Dozens more artificial, synthetic zeolites (around 150) have been designed for specific purposes, the best known of which are zeolite A (commonly used as a laundry detergent), zeolites X and Y (two different types of faujasites, used for catalytic cracking), and the petroleum catalyst ZSM-5 (a branded name for pentasil-zeolite).\n5. More than 45 zeolites have been identified, including: • Clinoptilolite, a natural zeolite with a wide range of industrial applications. • Heulandite, a popular zeolite for use in aquariums and as a decorative mineral. • Stilbite, a zeolite often used in crystal healing. • Natrolite, a type of zeolite with a high water content.",
+               "predicate": null
+            }
+         ],
+         "row": 2,
+         "id": 284195846138918071
+      },
+      {
+         "en_claim": "Does paxlovid protect unvaccinated people with risk factors from severe or even fatal covid 19 disease?",
+         "label": 1,
+         "date": "19. September 2022",
+         "claim": "Does paxlovid protect unvaccinated people with risk factors from severe or even fatal covid 19 disease?",
+         "prediction": 1,
+         "rationale": "Paxlovid, an antiviral medication, is primarily used to treat COVID-19 in individuals who are at high risk of developing severe disease. While it is not a vaccine and does not provide immunity, studies have shown that Paxlovid can significantly reduce the risk of hospitalization and severe outcomes in unvaccinated individuals. Paxlovid, an antiviral medication, has been shown to reduce the risk of severe illness, hospitalization, and death from COVID-19 in high-risk individuals, including those who are unvaccinated, when administered early in the course of the infection. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Does paxlovid protect unvaccinated people from severe covid 19 disease?",
+               "answer": "Paxlovid, an antiviral medication, is primarily used to treat COVID-19 in individuals who are at high risk of developing severe disease. While it is not a vaccine and does not provide immunity, studies have shown that Paxlovid can significantly reduce the risk of hospitalization and severe outcomes in unvaccinated individuals who",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Does paxlovid protect unvaccinated people with risk factors from fatal covid 19 disease?",
+               "answer": "Paxlovid, an antiviral medication, has been shown to reduce the risk of severe illness, hospitalization, and death from COVID-19 in high-risk individuals, including those who are unvaccinated. Studies indicate that it is effective in treating COVID-19 when administered early in the course of the infection. Therefore,",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 3,
+         "id": 174911542992916947
+      },
+      {
+         "en_claim": "Does starting school later improve health, learning success, and quality of life in adolescents?",
+         "label": 2,
+         "date": "7. September 2022",
+         "claim": "Does starting school later improve health, learning success, and quality of life in adolescents?",
+         "prediction": 1,
+         "rationale": "Starting school later can improve health in adolescents, as research has shown that later school start times align better with the natural sleep patterns of teenagers. This alignment helps address the shift in circadian rhythms that makes it difficult for them to fall asleep early, increasing the likelihood that adolescents will get the recommended amount of sleep. Starting school later can improve learning success in adolescents, as research indicates that later school start times align better with the natural sleep patterns of teenagers. During puberty, adolescents often experience shifts in their circadian rhythms, leading to misalignment that can result in sleep deprivation. This sleep deprivation negatively impacts cognitive function, mood, and overall Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Does starting school later improve health in adolescents?",
+               "answer": "Yes, starting school later can improve health in adolescents. Research has shown that later school start times align better with the natural sleep patterns of teenagers, who typically experience a shift in their circadian rhythms that makes it difficult for them to fall asleep early. By starting school later, adolescents are more likely to get the recommended amount",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Does starting school later improve learning success in adolescents?",
+               "answer": "Starting school later can improve learning success in adolescents. Research indicates that later school start times align better with the natural sleep patterns of teenagers, who often experience shifts in their circadian rhythms during puberty. This misalignment can lead to sleep deprivation, which negatively impacts cognitive function, mood, and overall academic performance.\n\nStudies have shown",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 4,
+         "id": 228897962805974675
+      },
+      {
+         "en_claim": "Does the F.X. Mayr cure have health benefits? Can it prevent diseases or treat them?",
+         "label": 2,
+         "date": "22. September 2022",
+         "claim": "Does the F.X. Mayr cure have health benefits? Can it prevent diseases or treat them?",
+         "prediction": 1,
+         "rationale": "The F.X. Mayr cure is a therapeutic approach developed by the Austrian physician Franz Xaver Mayr in the early 20th century, focusing on detoxification and rejuvenation of the body through a combination of dietary changes, fasting, and specific treatments aimed at improving digestive health. The F.X. Mayr cure is a therapeutic approach that focuses on detoxification, dietary changes, and lifestyle modifications to improve digestive health, involving a combination of fasting, a specific diet, and treatments such as massages and hydrotherapy, with proponents claiming that it can help enhance digestive well-being. The F.X. Mayr cure, developed by Austrian physician Franz Xaver Mayr, is a form of detoxification and dietary therapy that primarily aims to improve digestive health and overall well-being. While proponents suggest that it may help with various health issues, including digestive disorders and fatigue, there is limited scientific evidence to support The F.X. Mayr cure is primarily a detoxification and wellness program rather than a treatment for specific diseases, focusing on improving digestive health, promoting overall well-being, and encouraging a healthier lifestyle through dietary changes, fasting, and various therapies. While some individuals may experience improvements in certain health conditions as a result of this The F.X. Mayr cure, a detox and fasting therapy developed by Austrian physician Franz Xaver Mayr, is not widely supported by rigorous scientific evidence, despite claims from proponents regarding benefits such as improved digestion, detoxification, and overall well-being. Systematic reviews and clinical studies on its effectiveness are limited. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "What is the F.X. Mayr cure?",
+               "answer": "The F.X. Mayr cure is a therapeutic approach developed by the Austrian physician Franz Xaver Mayr in the early 20th century. It focuses on detoxification and rejuvenation of the body through a combination of dietary changes, fasting, and specific treatments aimed at improving digestive health. The core principles of the F",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Does the F.X. Mayr cure improve digestive health?",
+               "answer": "The F.X. Mayr cure is a therapeutic approach that focuses on detoxification, dietary changes, and lifestyle modifications to improve digestive health. It typically involves a combination of fasting, a specific diet, and treatments such as massages and hydrotherapy. Proponents of the F.X. Mayr cure claim that it can help",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": "Can the F.X. Mayr cure prevent diseases?",
+               "answer": "The F.X. Mayr cure, which is a form of detoxification and dietary therapy developed by Austrian physician Franz Xaver Mayr, is primarily focused on improving digestive health and overall well-being. While proponents claim that it can help with various health issues, including digestive disorders and fatigue, there is limited scientific evidence to",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 3,
+               "target_entity": "",
+               "generated_question": "Does the F.X. Mayr cure treat diseases?",
+               "answer": "The F.X. Mayr cure is primarily a detoxification and wellness program rather than a treatment for specific diseases. It focuses on improving digestive health, promoting overall well-being, and encouraging a healthier lifestyle through dietary changes, fasting, and various therapies. While some individuals may experience improvements in certain health conditions as a result of",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 4,
+               "target_entity": "",
+               "generated_question": "Is the F.X. Mayr cure scientifically proven?",
+               "answer": "The F.X. Mayr cure, which is a type of detox and fasting therapy developed by the Austrian physician Franz Xaver Mayr, is not widely supported by rigorous scientific evidence. While some proponents claim benefits such as improved digestion, detoxification, and overall well-being, systematic reviews and clinical studies on the effectiveness of",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 5,
+         "id": 202994138018422127
+      },
+      {
+         "en_claim": "Does the consumption of soy foods or soy isoflavones affect the appearance of acne skin?",
+         "label": 2,
+         "date": "27. Oktober 2022",
+         "claim": "Does the consumption of soy foods or soy isoflavones affect the appearance of acne skin?",
+         "prediction": 0,
+         "rationale": "The relationship between the consumption of soy foods and acne is not definitively established, as research on this topic is limited. Some studies suggest that soy may have a beneficial effect on skin health due to its isoflavones, which can have anti-inflammatory properties. However, other research indicates that certain compounds in soy could potentially The relationship between soy isoflavones and acne is not well-established, and research on this topic is limited. Soy isoflavones are phytoestrogens that can mimic estrogen in the body, and while some studies suggest that hormonal fluctuations can influence acne development, the specific effects of soy isoflavones The consumption of soy foods or soy isoflavones does not have definitive evidence linking it directly to the cause of acne, which is influenced by various factors including hormones, genetics, diet, and skin care practices. Some studies indicate that dietary factors such as high glycemic index foods and dairy may have a stronger association with The consumption of soy foods and soy isoflavones may improve skin health, as some studies suggest that isoflavones, which are phytoestrogens found in soy, can enhance skin elasticity, hydration, and overall appearance by mimicking estrogen's effects on the skin. Soy foods and soy isoflavones are generally considered safe for most people and can offer various health benefits; however, some individuals may experience side effects related to skin health. It is important to note that soy isoflavones are phytoestrogens, which can have hormonal effects. Therefore, the final answer is: False.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Does the consumption of soy foods affect acne skin?",
+               "answer": "The relationship between soy foods and acne is not definitively established, and research on this topic is limited. Some studies suggest that soy may have a beneficial effect on skin health due to its isoflavones, which can have anti-inflammatory properties. However, other research indicates that certain compounds in soy could potentially influence hormone levels",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Does the consumption of soy isoflavones affect acne skin?",
+               "answer": "The relationship between soy isoflavones and acne is not well-established, and research on this topic is limited. Soy isoflavones are phytoestrogens, which means they can mimic estrogen in the body. Some studies suggest that hormonal fluctuations can influence acne development, but the effects of soy isoflav",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": "Does the consumption of soy foods or soy isoflavones cause acne?",
+               "answer": "There is no definitive evidence that the consumption of soy foods or soy isoflavones directly causes acne. Acne is influenced by various factors, including hormones, genetics, diet, and skin care practices. Some studies suggest that certain dietary factors, such as high glycemic index foods and dairy, may be more closely linked to",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 3,
+               "target_entity": "",
+               "generated_question": "Does the consumption of soy foods or soy isoflavones improve skin health?",
+               "answer": "The consumption of soy foods and soy isoflavones may have potential benefits for skin health. Some studies suggest that isoflavones, which are phytoestrogens found in soy, can help improve skin elasticity, hydration, and overall appearance by mimicking estrogen's effects on the skin. They may also have",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 4,
+               "target_entity": "",
+               "generated_question": "Do soy foods or soy isoflavones have any side effects on skin?",
+               "answer": "Soy foods and soy isoflavones are generally considered safe for most people and can have various health benefits. However, some individuals may experience side effects related to skin health. Here are a few points to consider:\n\n1. **Hormonal Effects**: Soy isoflavones are phytoestrogens, which",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 6,
+         "id": 997083128645123776
+      },
+      {
+         "en_claim": "Does extract from the Damiana plant (Turnera diffusa) help with erectile dysfunction?",
+         "label": 2,
+         "date": "25. August 2022",
+         "claim": "Does extract from the Damiana plant (Turnera diffusa) help with erectile dysfunction?",
+         "prediction": 1,
+         "rationale": "The Damiana plant (Turnera diffusa) is an herb that has been traditionally used for various purposes, including as an aphrodisiac, and some proponents suggest that it may help with erectile dysfunction (ED) by improving sexual function and enhancing libido; however, scientific evidence supporting its effectiveness for ED is limited and As of October 2023, there is limited scientific evidence supporting the effectiveness of Damiana (Turnera diffusa) for erectile dysfunction (ED). While some traditional uses suggest that Damiana may have aphrodisiac properties and it has been utilized in herbal medicine for various sexual health issues, its efficacy for ED remains Damiana (Turnera diffusa) has traditionally been used as an herbal remedy for various sexual health issues, often associated with enhancing libido and improving sexual function. In traditional medicine, it has been used to address conditions such as erectile dysfunction and to promote overall sexual wellness, although scientific evidence supporting these claims is limited. Damiana is often used as an aphrodisiac, with a long history of use in traditional medicine and herbal remedies, where it is believed to enhance sexual desire and improve sexual function. Some studies and anecdotal evidence suggest that Damiana may help increase libido and improve sexual performance, although more research is needed. Damiana is considered a herbal remedy, derived from the leaves of the Turnera diffusa plant, and has been traditionally used for various purposes, including as an aphrodisiac, to improve mood, and to support digestive health; however, it is important to consult with a healthcare professional before using it. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Does the Damiana plant help with erectile dysfunction?",
+               "answer": "Damiana (Turnera diffusa) is an herb that has been traditionally used for various purposes, including as an aphrodisiac. Some proponents suggest that it may help with erectile dysfunction (ED) by improving sexual function and enhancing libido. However, scientific evidence supporting its effectiveness for ED is limited and not conclusive",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": "Is there scientific evidence supporting Damiana's effectiveness for erectile dysfunction?",
+               "answer": "As of my last knowledge update in October 2023, there is limited scientific evidence supporting the effectiveness of Damiana (Turnera diffusa) for erectile dysfunction (ED). Some traditional uses of Damiana suggest it may have aphrodisiac properties, and it has been used in herbal medicine for various sexual health issues",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": "Is Damiana traditionally used for sexual health issues?",
+               "answer": "Yes, Damiana (Turnera diffusa) has traditionally been used as an herbal remedy for various sexual health issues. It is often associated with enhancing libido and improving sexual function. In traditional medicine, it has been used to address conditions such as erectile dysfunction and to promote overall sexual wellness. However, scientific evidence supporting these",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 3,
+               "target_entity": "",
+               "generated_question": "Is Damiana used as an aphrodisiac?",
+               "answer": "Yes, Damiana is often used as an aphrodisiac. It has a long history of use in traditional medicine, particularly in herbal remedies, where it is believed to enhance sexual desire and improve sexual function. Some studies and anecdotal evidence suggest that Damiana may help increase libido and improve sexual performance, although more",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 4,
+               "target_entity": "",
+               "generated_question": "Is Damiana considered a herbal remedy?",
+               "answer": "Yes, Damiana is considered a herbal remedy. It is derived from the leaves of the Turnera diffusa plant and has been traditionally used for various purposes, including as an aphrodisiac, to improve mood, and to support digestive health. However, it's important to consult with a healthcare professional before using it for",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 7,
+         "id": 179892678856482509
+      }
+   ]
+}

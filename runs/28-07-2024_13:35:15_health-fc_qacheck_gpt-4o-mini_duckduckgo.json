@@ -1,0 +1,24 @@
+{
+   "data": [
+      {
+         "en_claim": "Can masks reduce corona infections when worn by a large proportion of the population?",
+         "label": 1,
+         "date": "5. Dezember 2022",
+         "claim": "Can masks reduce corona infections when worn by a large proportion of the population?",
+         "prediction": 1,
+         "rationale": "Masks can help reduce the transmission of coronavirus (COVID-19) by blocking respiratory droplets that may contain the virus, which are released when an infected person talks, coughs, or sneezes. Wearing masks, especially in crowded or indoor settings, can significantly lower the risk of spreading the virus. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": "Do masks reduce corona infections?",
+               "answer": "Yes, masks can help reduce the transmission of coronavirus (COVID-19). They work by blocking respiratory droplets that may contain the virus, which are released when an infected person talks, coughs, or sneezes. Wearing masks, especially in crowded or indoor settings, can significantly lower the risk of spreading the virus and",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 0,
+         "id": 247438560496105929
+      }
+   ]
+}

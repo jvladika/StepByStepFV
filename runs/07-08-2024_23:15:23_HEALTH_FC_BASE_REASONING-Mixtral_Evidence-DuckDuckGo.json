@@ -1,0 +1,104 @@
+{
+   "data": [
+      {
+         "claim": "Can masks reduce corona infections when worn by a large proportion of the population?",
+         "label": 0,
+         "prediction": 0,
+         "rationale": "There is no definitive evidence that masks reduce corona infections. The effectiveness of masks in reducing corona infections depending on the proportion of the population wearing them is unknown. There is no evidence that wearing masks in large proportions has reduced corona infections in any population. Therefore, the final answer is: False.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": [
+                  "To validate the claim \"Can masks reduce corona infections when worn by a large proportion of the population?\", the first simple question we need to ask is:  = Do masks reduce corona infections?"
+               ],
+               "answer": "The answer is: No definitive evidence found to support the claim that masks reduce corona infections.",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": [
+                  "To validate the claim \"Can masks reduce corona infections when worn by a large proportion of the population?\", the next simple question we need to ask is:   2 = Does the effectiveness of masks in reducing corona infections depend on the proportion of the population wearing them?"
+               ],
+               "answer": "The evidence snippet states \"No results found,\" which indicates that there is no information available to directly answer the question about whether the effectiveness of masks in reducing corona infections depends on the proportion of the population wearing them. Therefore, based on the provided evidence, the answer is: **Unknown**.",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": [
+                  "To validate the claim \"Can masks reduce corona infections when worn by a large proportion of the population?\", the next simple question we need to ask is:  3 = Is there any evidence that wearing masks in large proportions has reduced corona infections in any population?"
+               ],
+               "answer": "No, there is no evidence found that supports the claim that wearing masks in large proportions has reduced corona infections in any population.",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 0,
+         "id": 746180889065822497
+      },
+      {
+         "claim": "Does paxlovid protect unvaccinated people with risk factors from severe or even fatal covid 19 disease?",
+         "label": 0,
+         "prediction": 1,
+         "rationale": "Paxlovid is an antiviral medication used to treat COVID-19, designed to reduce the severity of the illness, and consists of two active ingredients: nirmatrelvir and ritonavir. The next question to ask after validating the claim would be: \"Does Paxlovid reduce the severity of COVID-19 in unvaccinated people with risk factors?\" The evidence does not confirm or deny Paxlovid's protective effects in preventing severe or fatal outcomes from COVID-19 in unvaccinated people with risk factors. Lars Onsager won the Nobel Prize in 1968. Lars Onsager won the Nobel Prize. Therefore, the final answer is: True.",
+         "context": [
+            {
+               "round": 0,
+               "target_entity": "",
+               "generated_question": [
+                  "What is Paxlovid?"
+               ],
+               "answer": "Paxlovid is an antiviral medication used to treat COVID-19. It is designed to reduce the severity of the illness and is typically prescribed for individuals at high risk of developing severe symptoms. Paxlovid consists of two active ingredients: nirmatrelvir and ritonavir. Nirmatrelvir inhibits the",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 1,
+               "target_entity": "",
+               "generated_question": [
+                  "To validate the claim \"Does paxlovid protect unvaccinated people with risk factors from severe or even fatal covid 19 disease?\", the next question to ask after  1 would be:   2 = Does Paxlovid reduce the severity of COVID-19 in unvaccinated people with risk factors?"
+               ],
+               "answer": "The answer is: Yes, the next question to ask would be: \"Does Paxlovid reduce the severity of COVID-19 in unvaccinated people with risk factors?\" This question directly addresses the effectiveness of Paxlovid in a specific population that is at risk for severe outcomes from COVID-19.",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 2,
+               "target_entity": "",
+               "generated_question": [
+                  "To validate the claim \"Does paxlovid protect unvaccinated people with risk factors from severe or even fatal covid 19 disease?\", the next question to ask after 2 would be:  3 = Does Paxlovid prevent fatal outcomes from COVID-19 in unvaccinated people with risk factors?  This question further narrows down the effectiveness of Paxlovid in preventing the most severe outcome, which is death, in the specified population."
+               ],
+               "answer": "The evidence snippet does not provide any results or information regarding the effectiveness of Paxlovid in preventing severe or fatal outcomes from COVID-19 in unvaccinated people with risk factors. Therefore, based on the provided evidence, we cannot confirm or deny the claim regarding Paxlovid's protective effects in this specific population.",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 3,
+               "target_entity": "",
+               "generated_question": [
+                  "Based on the provided examples, I will generate the next question to ask for each claim.  **Claim 1: Superdrag and Collective Soul are both rock bands.** Next question: What genre of music does Collective Soul play?  **Claim 2: Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for the WBO lightweight title in 1995.** Next question: Did Jimmy Garcia lose to Orzubek Nazarov by unanimous decision?  **Claim 3: The Swan of Catania was taught by the Italian composer Giovanni Furno.** Next question: Who is known as the Swan of Catania?  **Claim 4: Smith worked on the series The Handmaid's Tale that is based on a novel by Margaret Atwood.** Next question: What is the role of Smith in the series The Handmaid's Tale?  **Claim 5: The Potomac River runs along the neighborhood where Ashley Estates Kavanaugh's wedding was held.** Next question: Does the Potomac River run along Christ Church in Georgetown?  **Claim 6: Ulrich Walter's employer is headquartered in Cologne.** Next question: Is the University of Cologne headquartered in Cologne?  **Claim 7: Lars Onsager won the Nobel prize when he was"
+               ],
+               "answer": "What year did Lars Onsager win the Nobel Prize?",
+               "rationale": "No results found.",
+               "predicate": null
+            },
+            {
+               "round": 4,
+               "target_entity": "",
+               "generated_question": [
+                  "Based on the provided examples, I will generate the next question to ask for each claim.  **Claim 1: Superdrag and Collective Soul are both rock bands.**  Next question: What genre of music does Collective Soul play?  **Claim 2: Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for the WBO lightweight title in 1995.**  Next question: Did Jimmy Garcia lose to Orzubek Nazarov by unanimous decision?  **Claim 3: The Swan of Catania was taught by the Italian composer Giovanni Furno.**  Next question: Who is known as the Swan of Catania?  **Claim 4: Smith worked on the series The Handmaid's Tale that is based on a novel by Margaret Atwood.**  Next question: What is the role of Smith in the series The Handmaid's Tale?  **Claim 5: The Potomac River runs along the neighborhood where Ashley Estates Kavanaugh's wedding was held.**  Next question: Does the Potomac River run along Christ Church in Georgetown?  **Claim 6: Ulrich Walter's employer is headquartered in Cologne.**  Next question: Is the University of Cologne headquartered in Cologne?  **Claim 7: Lars Onsager won"
+               ],
+               "answer": "What award did Lars Onsager win?",
+               "rationale": "No results found.",
+               "predicate": null
+            }
+         ],
+         "row": 1,
+         "id": 291017319327030693
+      }
+   ]
+}
